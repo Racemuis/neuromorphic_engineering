@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Dec 29 13:18:49 2021
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : AER
+Top-level Entity Name : aer
+Family : Cyclone 10 LP
+Device : 10CL006YE144C6G
+Timing Models : Final
+Total logic elements : 170 / 6,272 ( 3 % )
+    Total combinational functions : 123 / 6,272 ( 2 % )
+    Dedicated logic registers : 102 / 6,272 ( 2 % )
+Total registers : 102
+Total pins : 16 / 89 ( 18 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

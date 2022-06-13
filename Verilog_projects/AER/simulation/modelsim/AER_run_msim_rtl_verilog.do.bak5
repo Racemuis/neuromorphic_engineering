@@ -1,0 +1,9 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -sv -work work +incdir+C:/Users/Racemuis/Documents/school/m\ artificial\ intelligence/semester\ 1/neuromorphic\ engineering/AER {C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/AER/priority_encoder.sv}
+

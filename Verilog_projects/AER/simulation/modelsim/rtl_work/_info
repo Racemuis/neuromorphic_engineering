@@ -1,0 +1,229 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/simulation/modelsim
+vaer
+Z1 !s110 1640780360
+!i10b 1
+!s100 [Sd5SmCB@:mMj7Om5k4UZ0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IEhJmF9lnFLM[g0DO=Gzfb3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1636039586
+Z5 8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/aer.v
+Z6 FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/aer.v
+!i122 0
+L0 20 95
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1640780360.000000
+Z9 !s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/aer.v|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/aer.v|
+!i113 1
+Z11 o-vlog01compat -work work
+Z12 !s92 -vlog01compat -work work {+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system}
+Z13 tCvgOpt 0
+vaer_testbench
+R1
+!i10b 1
+!s100 f3eI<8XcA>1@ciA2e_R;93
+R2
+IA3VdG?Ul`9j;c`Z=6iX5f3
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 116 48
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+vcomparator
+R1
+!i10b 1
+!s100 E575YTQX`[jiB?nnL;kKY3
+R2
+I]83J7QlWdQTQHoP2ahIXC1
+R3
+R0
+Z14 w1636039399
+Z15 8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/comparator.v
+Z16 FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/comparator.v
+!i122 2
+L0 1 8
+R7
+r1
+!s85 0
+31
+R8
+Z17 !s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/comparator.v|
+Z18 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/comparator.v|
+!i113 1
+R11
+R12
+R13
+vcomparator_testbench
+R1
+!i10b 1
+!s100 JEVh9bKG>Tgg6gSKemD5]2
+R2
+IId:O;B?6zS99=7@6AL`bZ2
+R3
+R0
+R14
+R15
+R16
+!i122 2
+L0 10 18
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!i113 1
+R11
+R12
+R13
+vFIFO_buffer
+R1
+!i10b 1
+!s100 c?>kTN>ojgFa@WXKVcBbg2
+R2
+In=aKBMXh^Jf9^:X0CXdTO0
+R3
+R0
+Z19 w1636039090
+Z20 8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/FIFO_buffer.v
+Z21 FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/FIFO_buffer.v
+!i122 1
+L0 1 48
+R7
+r1
+!s85 0
+31
+R8
+Z22 !s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/FIFO_buffer.v|
+Z23 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/FIFO_buffer.v|
+!i113 1
+R11
+R12
+R13
+n@f@i@f@o_buffer
+vFIFO_buffer_testbench
+R1
+!i10b 1
+!s100 :TeMO96>bTTKz<[YTY<_42
+R2
+I3HmFP4Yflk8__SXlHVKJi2
+R3
+R0
+R19
+R20
+R21
+!i122 1
+L0 50 54
+R7
+r1
+!s85 0
+31
+R8
+R22
+R23
+!i113 1
+R11
+R12
+R13
+n@f@i@f@o_buffer_testbench
+vmultiplexer
+R1
+!i10b 1
+!s100 8UzNG3^aO=`aA:<>gf:Z;0
+R2
+IoYh>5INA=D[9V6i21[_IE1
+R3
+R0
+w1635853737
+8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/multiplexer.v
+FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/multiplexer.v
+!i122 4
+L0 1 9
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/multiplexer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/multiplexer.v|
+!i113 1
+R11
+R12
+R13
+vpriority_encoder
+R1
+!i10b 1
+!s100 9AHV4i4PhO;nVzTg5odIc1
+R2
+IZBjz:KXj48S]`NRKkUE6_1
+R3
+R0
+Z24 w1636039659
+Z25 8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/priority_encoder.v
+Z26 FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/priority_encoder.v
+!i122 3
+L0 1 35
+R7
+r1
+!s85 0
+31
+R8
+Z27 !s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/priority_encoder.v|
+Z28 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/priority_encoder.v|
+!i113 1
+R11
+R12
+R13
+vpriorty_encoder_testbench
+R1
+!i10b 1
+!s100 5;FaCS2WYfIC@0M5Q]MCD2
+R2
+IE?4zzVhG^jKU>e[n?NBRK2
+R3
+R0
+R24
+R25
+R26
+!i122 3
+L0 37 33
+R7
+r1
+!s85 0
+31
+R8
+R27
+R28
+!i113 1
+R11
+R12
+R13

@@ -1,0 +1,95 @@
+# Reading pref.tcl
+# do AER_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Racemuis/Documents/school/m\ artificial\ intelligence/semester\ 1/neuromorphic\ engineering/neuromorphic_engineering/AER_system {C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/aer.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:19:20 on Dec 29,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system" C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/aer.v 
+# -- Compiling module aer
+# -- Compiling module aer_testbench
+# 
+# Top level modules:
+# 	aer_testbench
+# End time: 13:19:20 on Dec 29,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Racemuis/Documents/school/m\ artificial\ intelligence/semester\ 1/neuromorphic\ engineering/neuromorphic_engineering/AER_system {C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/FIFO_buffer.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:19:20 on Dec 29,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system" C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/FIFO_buffer.v 
+# -- Compiling module FIFO_buffer
+# -- Compiling module FIFO_buffer_testbench
+# 
+# Top level modules:
+# 	FIFO_buffer_testbench
+# End time: 13:19:20 on Dec 29,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Racemuis/Documents/school/m\ artificial\ intelligence/semester\ 1/neuromorphic\ engineering/neuromorphic_engineering/AER_system {C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/comparator.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:19:20 on Dec 29,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system" C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/comparator.v 
+# -- Compiling module comparator
+# -- Compiling module comparator_testbench
+# 
+# Top level modules:
+# 	comparator_testbench
+# End time: 13:19:20 on Dec 29,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Racemuis/Documents/school/m\ artificial\ intelligence/semester\ 1/neuromorphic\ engineering/neuromorphic_engineering/AER_system {C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/priority_encoder.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:19:20 on Dec 29,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system" C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/priority_encoder.v 
+# -- Compiling module priority_encoder
+# -- Compiling module priorty_encoder_testbench
+# 
+# Top level modules:
+# 	priorty_encoder_testbench
+# End time: 13:19:20 on Dec 29,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Racemuis/Documents/school/m\ artificial\ intelligence/semester\ 1/neuromorphic\ engineering/neuromorphic_engineering/AER_system {C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/multiplexer.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:19:20 on Dec 29,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system" C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/AER_system/multiplexer.v 
+# -- Compiling module multiplexer
+# 
+# Top level modules:
+# 	multiplexer
+# End time: 13:19:20 on Dec 29,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vsim work.aer_testbench
+# vsim work.aer_testbench 
+# Start time: 13:19:56 on Dec 29,2021
+# Loading work.aer_testbench
+# Loading work.aer
+# Loading work.comparator
+# Loading work.FIFO_buffer
+# Loading work.multiplexer
+# Loading work.priority_encoder
+add wave -position end  sim:/aer_testbench/write_en
+add wave -position end  sim:/aer_testbench/spikes
+add wave -position end  sim:/aer_testbench/reset
+add wave -position end  sim:/aer_testbench/preset
+add wave -position end  sim:/aer_testbench/i
+add wave -position end  sim:/aer_testbench/FIFO_full
+add wave -position end  sim:/aer_testbench/FIFO_empty
+add wave -position end  sim:/aer_testbench/EN_Neuron
+add wave -position end  sim:/aer_testbench/clk
+add wave -position end  sim:/aer_testbench/AER
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Racemuis  Hostname: JARVIS  ProcessID: 16284
+#           Attempting to use alternate WLF file "./wlft86s2ts".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft86s2ts
+run -all
+quit
+# End time: 13:22:19 on Dec 29,2021, Elapsed time: 0:02:23
+# Errors: 0, Warnings: 2

@@ -1,0 +1,73 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "EN_Neuron",
+					"strict" : false
+				},
+				{
+					"name" : "FIFO_full",
+					"strict" : false
+				},
+				{
+					"name" : "FIFO_empty",
+					"strict" : false
+				},
+				{
+					"name" : "AER[0]",
+					"strict" : false
+				},
+				{
+					"name" : "AER[1]",
+					"strict" : false
+				},
+				{
+					"name" : "AER[2]",
+					"strict" : false
+				},
+				{
+					"name" : "AER[3]",
+					"strict" : false
+				},
+				{
+					"name" : "preset",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "write_en",
+					"strict" : false
+				},
+				{
+					"name" : "spikes[3]",
+					"strict" : false
+				},
+				{
+					"name" : "spikes[1]",
+					"strict" : false
+				},
+				{
+					"name" : "spikes[0]",
+					"strict" : false
+				},
+				{
+					"name" : "spikes[2]",
+					"strict" : false
+				},
+				{
+					"name" : "spikes[4]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

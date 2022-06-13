@@ -1,0 +1,325 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/simulation/modelsim
+vinput_align
+Z1 !s110 1640781574
+!i10b 1
+!s100 1@8SoE2fPfRRYAb81ESA12
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Il[lPDbM;KhYWei`<KX0S?2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1639057263
+Z5 8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/input_align.v
+Z6 FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/input_align.v
+!i122 4
+L0 1 24
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1640781574.000000
+Z9 !s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/input_align.v|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/input_align.v|
+!i113 1
+Z11 o-vlog01compat -work work
+Z12 !s92 -vlog01compat -work work {+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron}
+Z13 tCvgOpt 0
+vinput_align_testbench
+R1
+!i10b 1
+!s100 6DmM1RaAHK:2`5BL[l^Xo2
+R2
+ICIzLbkgi1NonXm0N:lG0k3
+R3
+R0
+R4
+R5
+R6
+!i122 4
+L0 26 46
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+vizhneuron_verilog
+R1
+!i10b 1
+!s100 RF^WPQ?2X<kM]E6aJHW480
+R2
+IB7GLQC:?7e87nGKcXI[0?0
+R3
+R0
+Z14 w1640781306
+Z15 8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/izhneuron_verilog.v
+Z16 FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/izhneuron_verilog.v
+!i122 5
+L0 20 90
+R7
+r1
+!s85 0
+31
+R8
+Z17 !s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/izhneuron_verilog.v|
+Z18 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/izhneuron_verilog.v|
+!i113 1
+R11
+R12
+R13
+vizhneuron_verilog_testbench
+R1
+!i10b 1
+!s100 S4R:A2;ZiIOSm2eQ[IAb?2
+R2
+I[DLC7dSFE3PY69GZN1dk`1
+R3
+R0
+R14
+R15
+R16
+!i122 5
+L0 111 53
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!i113 1
+R11
+R12
+R13
+vneg_store
+R1
+!i10b 1
+!s100 XAn8;PBl`^d[QC84f1DRY2
+R2
+IZhF=ajb7V5n9Gh6hZKB^j2
+R3
+R0
+Z19 w1639500240
+Z20 8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/neg_store.v
+Z21 FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/neg_store.v
+!i122 6
+Z22 L0 1 14
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/neg_store.v|
+Z23 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/neg_store.v|
+!i113 1
+R11
+R12
+R13
+vneg_store_testbench
+R1
+!i10b 1
+!s100 a;cR1P[?cd3OacD0F@AT72
+R2
+I9IXPnPPiMYi7C[H9Ygj?D1
+R3
+R0
+R19
+R20
+R21
+!i122 6
+Z24 L0 17 31
+R7
+r1
+!s85 0
+31
+R8
+Z25 !s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/neg_store.v|
+R23
+!i113 1
+R11
+R12
+R13
+vRAM
+R1
+!i10b 1
+!s100 NT;Bzmg21z[@NVO^JoaIE3
+R2
+I9VnfbJCUDg<86F3j:YYC;1
+R3
+R0
+Z26 w1639056828
+Z27 8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/RAM.v
+Z28 FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/RAM.v
+!i122 3
+Z29 L0 1 29
+R7
+r1
+!s85 0
+31
+R8
+Z30 !s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/RAM.v|
+Z31 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/RAM.v|
+!i113 1
+R11
+R12
+R13
+n@r@a@m
+vRAM_testbench
+R1
+!i10b 1
+!s100 PWbj<IQ:]Vme<M:;f8ebM3
+R2
+Ij?Y]LB_Nl<m^C]OfdUjTW0
+R3
+R0
+R26
+R27
+R28
+!i122 3
+L0 31 42
+R7
+r1
+!s85 0
+31
+R8
+R30
+R31
+!i113 1
+R11
+R12
+R13
+n@r@a@m_testbench
+vstore
+R1
+!i10b 1
+!s100 af8n6nmQklNiXBBn]4<[U3
+R2
+IL@SA]^N:ceDFkVnXiDg>B2
+R3
+R0
+Z32 w1639499970
+Z33 8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/store.v
+Z34 FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/store.v
+!i122 2
+R22
+R7
+r1
+!s85 0
+31
+R8
+Z35 !s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/store.v|
+Z36 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/store.v|
+!i113 1
+R11
+R12
+R13
+vstore_testbench
+R1
+!i10b 1
+!s100 YiER7;6bWPm8UTP`S34`k1
+R2
+I=n?8zj<[1URRo0HEbB4@N1
+R3
+R0
+R32
+R33
+R34
+!i122 2
+R24
+R7
+r1
+!s85 0
+31
+R8
+R35
+R36
+!i113 1
+R11
+R12
+R13
+vu_equation
+R1
+!i10b 1
+!s100 RREcUAk7CeCJNT5n_L6zQ1
+R2
+I:2FVGzcQN;=WO77j8AAl81
+R3
+R0
+w1639480230
+8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/u_equation.v
+FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/u_equation.v
+!i122 1
+R29
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/u_equation.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/u_equation.v|
+!i113 1
+R11
+R12
+R13
+vv_equation
+Z37 !s110 1640781573
+!i10b 1
+!s100 ^6<GUY]^_bENnaoa>U?f62
+R2
+I8CBT@EDhjk3d:9R[9Sl<a2
+R3
+R0
+Z38 w1639499081
+Z39 8C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/v_equation.v
+Z40 FC:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/v_equation.v
+!i122 0
+L0 1 40
+R7
+r1
+!s85 0
+31
+Z41 !s108 1640781573.000000
+Z42 !s107 C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/v_equation.v|
+Z43 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron|C:/Users/Racemuis/Documents/school/m artificial intelligence/semester 1/neuromorphic engineering/neuromorphic_engineering/neuron/v_equation.v|
+!i113 1
+R11
+R12
+R13
+vv_equation_testbench
+R37
+!i10b 1
+!s100 eGTHVY<D@]kMZddaKESOE1
+R2
+I5g9Bc`=OXcSmo^jO@<mal0
+R3
+R0
+R38
+R39
+R40
+!i122 0
+L0 42 43
+R7
+r1
+!s85 0
+31
+R41
+R42
+R43
+!i113 1
+R11
+R12
+R13
