@@ -12,5 +12,5 @@ To allow the software to run on a Field-programmable gate array (FPGA) chip, it 
 
 The verilog implementations of the components can found in the folders `Verilog_projects/*`. One can open each project in Quartus by clicking the `*.qpf` files. The main modules, `Verilog_projects/AER/AER.v`, `Verilog_projects/stdp/STDP_verilog.v` and `Verilog_projects/neuron/izhneuron_verilog.v` include testbenches that can be simulated using _Altera Modelsim_ to verify the behaviour of the components. Furthermore, you can add the components to your own project by copying all verilog files of the respective verilog project to your own project. Symbol files of the components can be created by right-clicking the component in your project navigator, and selecting _Create Symbol Files for Current File_. 
 
-[1]  E.-G. M. Mallorqu ́ı, ‘Digital system for spiking neural network emulation,’ Polytechnic Universityof Catalonia, Barcelona, Spain, Tech. Rep., Jun. 2017.
+[1]  E.-G. M. Mallorqu ́ı, ‘Digital system for spiking neural network emulation,’ Polytechnic Universityof Catalonia, Barcelona, Spain, Tech. Rep., Jun. 2017.<br>
 [2] E. M. Izhikevich, ‘Simple model of spiking neurons,’ _IEEE Transactions on neural networks_, vol. 14,no. 6, pp. 1569–1572, 2003.
