@@ -1,4 +1,4 @@
-# neuromorphic_engineering
+# A spiking neuron for field-programmable gate array chips
 
 This software has been written for the project _Towards implementing a spiking neural network on the Arduino MKR Vidor 4000_. The project consists out of three components, based on [1]: 
 
